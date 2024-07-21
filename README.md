@@ -25,6 +25,13 @@ Pizza Shop is a Java Web Application developed to manage all shopping activities
 - **Product Management**: Admin interface for adding, updating, and deleting products.
 - **Order Management**: Functionality for placing orders, viewing order history, and order status updates.
 
+## 📸 Screenshots
+*Home Page:
+![HomePage](https://github.com/th3y3m/shopping-website/blob/main/screenshots/HomePage.png)
+
+*Menu Page:
+![MenuPage](https://github.com/th3y3m/shopping-website/blob/main/screenshots/MenuPage.png)
+
 ## Repository Contents
 - **src/**: Contains all Java source code.
 - **web/**: Contains JSP files, HTML, CSS, and JavaScript.
